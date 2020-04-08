@@ -1,5 +1,5 @@
 #####################################################
-#   @author:                                        #
+#   @autores:                                        #
 #           - Jhonny Kristyan Vaz-Tostes de Assis   #
 #           - Matheus Kunnen Ledesma                #
 #           - Patricia Abe Turato                   #
