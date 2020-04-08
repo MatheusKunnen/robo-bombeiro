@@ -4,6 +4,9 @@
 #           - Matheus Kunnen Ledesma                #
 #           - Patricia Abe Turato                   #
 #####################################################
+import RPi.GPIO as GPIO
+import time
+import smbus
 
 class DistanceSensor:
     def __init__(self, pin_echo, pin_trigger):
